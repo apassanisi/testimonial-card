@@ -1,5 +1,26 @@
-# Vue 3 + TypeScript + Vite
+<div align="center">
+  <h2 align="center">Testimonial Card</h2>
+  <p align="center">
+<a href="https://apassanisi-testimonial-card.netlify.app" style=""><strong>View live »</strong></a>
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+  <div style="max-width: 75px;">
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f2c75246-b8c0-4e4a-902d-a215a70c7fa4/deploy-status)](https://app.netlify.com/sites/apassanisi-testimonial-card/deploys)
+
+  </div>
+  </p>
+<small>Built with:</small>
+<br/>
+<img src="https://img.shields.io/badge/-Vue.js-2b2b2b?logo=vue.js&style=flat-square" alt="Badge">
+<img src="https://img.shields.io/badge/TypeScript-2b2b2b?logo=Typescript&style=flat-square" alt="Badge">
+<img src="https://img.shields.io/badge/Tailwind-2b2b2b?logo=TailwindCSS&style=flat-square" alt="Badge">
+</div>
+
+### Usage
+
+| Use                    | Command           | URL                                            |
+| ---------------------- | ----------------- | ---------------------------------------------- |
+| Install locally        | `nvm use && yarn` |                                                |
+| Start local dev server | `yarn dev`        | [http://localhost:3000](http://localhost:3000) |
+| Static build           | `yarn build`      |                                                |
+| Preview static build   | `yarn preview`      | [http://localhost:4173](http://localhost:4173) |
